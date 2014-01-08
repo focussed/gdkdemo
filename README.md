@@ -1,6 +1,6 @@
 **NOTE**
 
-[GDKDemo respository will be made _private._](http://blog.glassdiary.com/post/71446368700/moving-gdk-demo-apps-to-private-repository)
+[GDKDemo respository will be made _private._](http://blog.glassdiary.com/post/72696029074/announcing-glass-luck-club-for-glassware)
 Please go ahead and clone/fork it, if you'd like.
 If you are interested in hearing more about the "migration" and the future directions of GDK Demo,
 please "sign up" [here](http://www.glassluck.com/). 
