@@ -1,3 +1,14 @@
+**NOTE**
+
+[We are currently in the process of "migrating" GDKDemo respository.](http://blog.glassdiary.com/post/72696029074/announcing-glass-luck-club-for-glassware)
+If you are interested in hearing more about the "migration" and the future directions of GDK Demo,
+please "sign up" [here](http://www.glassluck.com/). 
+
+_~Harry, 1/09/2014_
+
+
+
+
 Glass Development Kit API Demo
 =======
 
