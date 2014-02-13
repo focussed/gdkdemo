@@ -1,18 +1,10 @@
 **NOTE**
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-[We are currently in the process of "migrating" GDKDemo respository.](http://blog.glassdiary.com/post/72696029074/announcing-glass-luck-club-for-glassware)
-=======
-=======
->>>>>>> parent of c49962e... Update README.md
-[GDKDemo respository will be made _private._](http://blog.glassdiary.com/post/71446368700/moving-gdk-demo-apps-to-private-repository)
-Please go ahead and clone/fork it, if you'd like.
->>>>>>> parent of c49962e... Update README.md
-If you are interested in hearing more about the "migration" and the future directions of GDK Demo,
-please "sign up" [here](http://www.glassluck.com/). 
+The GDK sample code in this repository is a couple of months old,
+and they are currently not being maintained.
 
-_~Harry, 1/09/2014_
+
+_~Harry, 2/13/2014_
 
 
 
