@@ -1,8 +1,11 @@
 **NOTE**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [We are currently in the process of "migrating" GDKDemo respository.](http://blog.glassdiary.com/post/72696029074/announcing-glass-luck-club-for-glassware)
 =======
+=======
+>>>>>>> parent of c49962e... Update README.md
 [GDKDemo respository will be made _private._](http://blog.glassdiary.com/post/71446368700/moving-gdk-demo-apps-to-private-repository)
 Please go ahead and clone/fork it, if you'd like.
 >>>>>>> parent of c49962e... Update README.md
